@@ -1,0 +1,75 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\USER\\git\\courses\\yt\\freeCodeCamp.org\\CsharpProgramming\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{74280C3B-7980-40E1-8D02-2DFC0181848B}|NumericDataType\\NumericDataType.csproj|c:\\users\\user\\git\\courses\\yt\\freecodecamp.org\\csharpprogramming\\numericdatatype\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{74280C3B-7980-40E1-8D02-2DFC0181848B}|NumericDataType\\NumericDataType.csproj|solutionrelative:numericdatatype\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6998A84A-A586-4CAF-897F-8C2C17B51AE8}|HelloWorld\\HelloWorld.csproj|c:\\users\\user\\git\\courses\\yt\\freecodecamp.org\\csharpprogramming\\helloworld\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6998A84A-A586-4CAF-897F-8C2C17B51AE8}|HelloWorld\\HelloWorld.csproj|solutionrelative:helloworld\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1B6D8E0A-FA4E-4F9A-853A-59F21089C305}|MyFirstProgram\\MyFirstProgram.csproj|c:\\users\\user\\git\\courses\\yt\\freecodecamp.org\\csharpprogramming\\myfirstprogram\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1B6D8E0A-FA4E-4F9A-853A-59F21089C305}|MyFirstProgram\\MyFirstProgram.csproj|solutionrelative:myfirstprogram\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\USER\\git\\courses\\yt\\freeCodeCamp.org\\CsharpProgramming\\NumericDataType\\Program.cs",
+              "RelativeDocumentMoniker": "NumericDataType\\Program.cs",
+              "ToolTip": "C:\\Users\\USER\\git\\courses\\yt\\freeCodeCamp.org\\CsharpProgramming\\NumericDataType\\Program.cs",
+              "RelativeToolTip": "NumericDataType\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-26T06:33:23.837Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\USER\\git\\courses\\yt\\freeCodeCamp.org\\CsharpProgramming\\HelloWorld\\Program.cs",
+              "RelativeDocumentMoniker": "HelloWorld\\Program.cs",
+              "ToolTip": "C:\\Users\\USER\\git\\courses\\yt\\freeCodeCamp.org\\CsharpProgramming\\HelloWorld\\Program.cs",
+              "RelativeToolTip": "HelloWorld\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-26T06:33:10.112Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\USER\\git\\courses\\yt\\freeCodeCamp.org\\CsharpProgramming\\MyFirstProgram\\Program.cs",
+              "RelativeDocumentMoniker": "MyFirstProgram\\Program.cs",
+              "ToolTip": "C:\\Users\\USER\\git\\courses\\yt\\freeCodeCamp.org\\CsharpProgramming\\MyFirstProgram\\Program.cs",
+              "RelativeToolTip": "MyFirstProgram\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-26T06:32:49.061Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
